@@ -1,6 +1,6 @@
 class Particle {
 
-  // properties
+  // Properties
   PVector position; // Where it is
   PVector velocity; // Change of location overtime
   PVector acceleration;
